@@ -1,14 +1,8 @@
 
-[![MasterHead](https://i.pinimg.com/564x/a7/ef/3d/a7ef3dc9e3ffabfb7ec0d2caba069ed4.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate App developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/08/1f/5e081f1f4b20038250271244f089bb51.jpg">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashisharma1&label=Profile%20views&color=0e75b6&style=flat" alt="aashisharma1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashisharma1" alt="aashisharma1" /></a> </p>
-
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a6/0d/dd/a60dddfbc26de889a3473c18181b3ff4.jpg">
 - 🔭 I’m currently working on **LogoSmart**
 
 - 🌱 I’m currently learning **JetPack Compose and KMP**
@@ -18,6 +12,11 @@
 - 📫 How to reach me **aasiSutna@gmail.com**
 
 - ⚡ Fun fact **I Read Documentations**
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashisharma1&label=Profile%20views&color=0e75b6&style=flat" alt="aashisharma1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashisharma1" alt="aashisharma1" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
