@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a6/0d/dd/a60dddfbc26de889a3473c18181b3ff4.jpg">
 - 🔭 I’m currently working on **LogoSmart**
 
+
 - 🌱 I’m currently learning **JetPack Compose and KMP**
 
 - 💬 Ask me about **Java , Kotlin , Android**
@@ -14,7 +15,8 @@
 - ⚡ Fun fact **I Read Documentations**
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashisharma1&label=Profile%20views&color=0e75b6&style=flat" alt="aashisharma1" /> </p>
-
+<a href="https://wakatime.com/@018cece3-2ff1-4f8a-9703-a68317866056"><img src="https://wakatime.com/badge/user/018cece3-2ff1-4f8a-9703-a68317866056.svg" alt="Total time coded since Jan 9 2024" /></a>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashisharma1" alt="aashisharma1" /></a> </p>
 
 
